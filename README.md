@@ -5,11 +5,17 @@ Hey there, budget-conscious human! Meet **Budget Planner**, a mobile app built w
 ## Features 🌟
 
 - **Expense Categorization**: Sort your expenses into neat little boxes (because chaos is overrated).
+
 - **Expense Limits**: Set monthly spending limits so you don’t cry at the end of the month.
+
 - **Donut Chart Representation**: Because who doesn’t love donuts? 🍩 Visualize your spending habits in a sweet, circular chart.
+
 - **Add & Manage Entries**: Easily add new expense entries and create custom categories like “Totally Necessary Coffee” ☕.
+
 - **Recurring Expenses**: Set up expenses that come back **monthly, every 3 months, 6 months, or yearly**—like your gym membership you keep forgetting about.
+
 - **Bar Graph for Recurring Expenses**: See your long-term spending trends in a clear bar graph (or use it to predict when you’ll finally go broke).
+
 - **Run on Expo Go**: Just download **Expo Go** and scan a QR code—no complicated setup required!
 
 ## Getting Started 🚀
