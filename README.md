@@ -43,7 +43,7 @@ Hey there, budget-conscious human! Meet **Budget Planner**, a mobile app built w
    ```
 4. Start the development server:
    ```sh
-   expo start
+   npx expo start
    ```
 5. Scan the QR code using **Expo Go** on your mobile device. Boom! You’re in. 🎉
 
